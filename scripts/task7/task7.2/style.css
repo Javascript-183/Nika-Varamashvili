@@ -1,0 +1,9 @@
+#hideBtn{
+    display: none;
+}
+
+#content{
+    display: none;
+    width: 500px;
+    justify-content: center;
+}

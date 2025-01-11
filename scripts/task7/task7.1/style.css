@@ -1,0 +1,18 @@
+#image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#controls {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+img {
+    transition: width 0.3s;
+}
